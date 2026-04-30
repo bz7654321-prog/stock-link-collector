@@ -15,7 +15,7 @@ CHANNELS = [
     "@Power_bus2",
     "@DSnews77",
     "@문선생_경제교실",
-    ""@MIRACLEG372"
+    "@MIRACLEG372"
 ]
 
 # 🎯 채널별 관심 종목 필터
